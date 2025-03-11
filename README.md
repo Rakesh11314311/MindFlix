@@ -10,9 +10,7 @@ e. Chunk the video metadata and store it in a VectorDB
 
 ## Instructions to run the model
 
-1. **Install Dependencies**
-
-Install the required packages using pip. The required packages are given in requirements.txt
+1. **Install Dependencies :** Install the required packages using pip. The required packages are given in requirements.txt
 
 2. **Add the YouTube links in linky.txt line by line**
 
