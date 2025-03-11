@@ -18,6 +18,6 @@ e. Chunk the video metadata and store it in a VectorDB
 
    Install the required packages using pip. The required packages are given in requirements.txt
 
-3. **Add the YouTube links in linky.txt line by line**
+2. **Add the YouTube links in linky.txt line by line**
 
-4. **Wait for Results**
+3. **Run the mindflix_1.ipynb file and wait for Results**
