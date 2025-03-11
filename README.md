@@ -14,6 +14,6 @@ e. Chunk the video metadata and store it in a VectorDB
 
 Install the required packages using pip. The required packages are given in requirements.txt
 
-2. **Add the YouTube links in linky.txt line by line:**
+2. **Add the YouTube links in linky.txt line by line**
 
-3. **Wait for Results:**
+3. **Wait for Results**
